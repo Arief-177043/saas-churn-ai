@@ -1,0 +1,3 @@
+{
+  "features": ["login_count", "session_duration", "feature_usage", "support_tickets"]
+}

@@ -1,0 +1,201 @@
+customer_id,customer_name,industry,account_manager,subscription_start_date,subscription_end_date,subscription_status,plan_type,monthly_fee,user_count,last_login_date,monthly_active_users,feature_usage_score,retention_rate_6m,retention_rate_12m,churn_risk_score,last_success_touch_date,notes
+ALPHA-ENT_001,Alpha Technologies Inc.,Technology,j.smith,2022-03-20,,active,Enterprise,4100,850,2024-06-11,810,92.5,97.2,96.8,0.06,2024-05-30,"High engagement, custom integrations deployed, annual review completed."
+BETA-PRO_002,Beta Financial Group,Finance,k.jones,2023-09-17,,active,Pro,418.99,48,2024-06-12,44,81.4,93.5,,0.19,2024-06-07,"Moderate engagement, recent campaign spikes noted, considering upgrade."
+GAMMA-BSC_003,Gamma Retail Solutions,Retail,,2024-02-25,,active,Basic,29.99,4,2024-06-10,2,32.1,,,0.44,2024-06-08,"Minimal engagement, price sensitive, single store operator."
+DELTA-TRIAL_004,Delta Health Network,Healthcare,n.riley,2024-06-01,,trial,Pro,0,14,2024-06-13,7,41.7,,,0.39,2024-06-11,"Pilot program, early adopter, integration delays noted."
+EPSILON-ENT_005,Epsilon Manufacturing,Manufacturing,d.lee,2021-07-13,,active,Enterprise,1950,180,2024-06-12,162,88.6,96.1,94.7,0.08,2024-06-10,"Custom workflows enabled, high engagement, annual review scheduled."
+ZETA-PRO_006,Zeta Energy Corp,Energy,r.taylor,2022-12-15,,active,Pro,505.5,38,2024-06-12,34,73.8,82.6,78.2,0.27,2024-06-03,"Renewal approaching, moderate engagement, training requested."
+THETA-BSC_007,Theta Agricultural Supply,Agriculture,,2023-12-09,,active,Basic,48,7,2024-06-09,4,19.4,,,0.51,2024-06-02,"Low engagement, price sensitive, considering alternative solutions."
+IOTA-ENT_008,Iota Aerospace Systems,Aerospace,s.hughes,2021-09-28,,active,Enterprise,3200,410,2024-06-13,401,99,98.2,97.5,0.03,2024-06-12,"High engagement, custom integrations, quarterly business review."
+KAPPA-PRO_009,Kappa Consulting,Professional Services,b.evans,2023-02-05,,active,Pro,346.75,27,2024-06-11,24,69.2,77.5,,0.32,2024-06-05,"Moderate engagement, campaign spikes, considering upgrade."
+LAMBDA-BSC_010,Lambda Veterinary Care,Veterinary,,2023-10-21,2024-05-30,expired,Basic,39.99,3,2024-05-30,0,0,0,,0.95,2024-05-30,"Minimal engagement, price increase cited as reason for expiry."
+MU-TRIAL_011,Mu Media Partners,Media,g.foster,2024-05-28,,trial,Basic,0,2,2024-06-12,1,8.2,,,0.61,2024-06-05,"Demo phase, minimal engagement, testing core features."
+NU-ENT_012,Nu Testing Labs,Testing,m.diaz,2022-06-14,,active,Enterprise,2850,140,2024-06-11,135,87.8,91.5,90.2,0.09,2024-06-09,"High engagement, custom integrations, quarterly check-in."
+XI-PRO_013,Xi Construction,Construction,t.white,2023-03-03,,active,Pro,512.25,54,2024-06-10,49,85.5,79.6,,0.21,2024-06-06,"Moderate engagement, new project onboarding underway."
+OMICRON-BSC_014,Omicron Media Group,Media,,2023-07-17,2024-05-28,cancelled,Basic,45,8,2024-05-28,0,0,0,0,0.99,2024-05-28,"Minimal engagement, business merger prompted cancellation."
+PI-TRIAL_015,Pi Advertising Solutions,Advertising,l.martin,2024-06-05,,trial,Pro,0,19,2024-06-13,11,59.1,,,0.54,2024-06-12,"Early adopter, pilot campaign in progress."
+RHO-ENT_016,Rho Education Services,Education,c.lam,2021-04-22,,active,Enterprise,1150,110,2024-06-11,99,82.6,94.1,92.8,0.13,2024-06-01,"High engagement, custom reporting enabled, annual review scheduled."
+SIGMA-PRO_017,Sigma Transportation,Transportation,v.stone,2023-01-16,,active,Pro,399.99,32,2024-06-11,28,77.7,74.5,,0.29,2024-06-09,"Moderate engagement, training scheduled."
+TAU-BSC_018,Tau Solo Practice,Testing,,2023-09-04,2024-05-22,expired,Basic,19.99,1,2024-05-22,0,0,0,,1,2024-05-22,"Minimal engagement, solo operator, account expired due to inactivity."
+UPSILON-ENT_019,Upsilon Aerospace,Aerospace,d.carter,2020-11-12,,active,Enterprise,5000,1000,2024-06-13,998,100,99.9,99.7,0.01,2024-06-12,"Exceptional engagement, multiple custom integrations, annual review positive."
+PHI-PRO_020,Phi Healthcare Partners,Healthcare,a.morris,2022-09-05,,active,Pro,597,55,2024-06-10,52,89.3,89.5,87,0.11,2024-06-09,"High engagement, compliance integrations enabled."
+CHI-BSC_021,Chi Agriculture Group,Agriculture,,2023-12-13,,active,Basic,21.5,2,2024-06-08,1,12.8,,,0.48,2024-06-04,"Low engagement, price sensitive, evaluating alternatives."
+PSI-TRIAL_022,Psi Professional Services,Professional Services,t.campbell,2024-05-20,,trial,Pro,0,12,2024-06-12,5,29.3,,,0.67,2024-06-10,"Pilot, initial engagement positive, integration planned."
+OMEGA-ENT_023,Omega Manufacturing Ltd.,Manufacturing,m.hall,2022-01-11,,active,Enterprise,2750,120,2024-06-13,118,94.2,93.7,93,0.07,2024-06-11,"High engagement, custom reporting enabled."
+ALPHAPRIME-PRO_024,AlphaPrime Logistics,Transportation,f.wilson,2023-05-14,,active,Pro,350,26,2024-06-12,22,63.9,71.2,,0.33,2024-06-06,"Moderate engagement, logistics integration launched."
+BETAPRIME-BSC_025,BetaPrime Retail,Retail,,2024-02-17,,active,Basic,22.99,1,2024-06-09,1,9.4,,,0.56,2024-06-04,"Minimal engagement, solo operator, evaluating platform."
+GAMMAPRIME-ENT_026,GammaPrime Technologies,Technology,s.nguyen,2022-04-05,,active,Enterprise,1230,96,2024-06-13,85,80.9,91.4,89.2,0.15,2024-06-12,"High engagement, custom integrations deployed."
+DELTAPRIME-PRO_027,DeltaPrime Health,Healthcare,r.brown,2023-08-15,,active,Pro,425,39,2024-06-11,36,78.7,84.9,,0.23,2024-06-08,"Moderate engagement, compliance training scheduled."
+EPSILONPRIME-BSC_028,EpsilonPrime Supply,Manufacturing,,2023-11-19,2024-05-29,cancelled,Basic,28.5,3,2024-05-29,0,0,0,,0.97,2024-05-29,"Low engagement, business merger prompted cancellation."
+ZETAPRIME-ENT_029,ZetaPrime Energy,Energy,e.king,2021-12-03,,active,Enterprise,2100,250,2024-06-12,235,95.1,98.3,97.4,0.04,2024-06-03,"High engagement, custom workflows enabled."
+THETAPRIME-PRO_030,ThetaPrime Consulting,Professional Services,u.harris,2023-06-11,,active,Pro,315,28,2024-06-11,24,60,70.4,,0.38,2024-06-09,"Moderate engagement, training scheduled."
+IOTAPRIME-BSC_031,IotaPrime Veterinary,Veterinary,,2023-11-11,2024-06-03,expired,Basic,37.99,5,2024-06-03,0,0,0,,0.93,2024-06-03,"Minimal engagement, price increase cited as reason for expiry."
+KAPPAPRIME-ENT_032,KappaPrime Aerospace,Aerospace,x.morgan,2021-08-18,,active,Enterprise,1690,120,2024-06-13,105,84.3,91,90.7,0.11,2024-06-12,"High engagement, annual review completed."
+LAMBDAPRIME-PRO_033,LambdaPrime Construction,Construction,q.baker,2023-04-12,,active,Pro,548,53,2024-06-12,48,86.7,77.2,,0.18,2024-06-11,"Moderate engagement, new project onboarding underway."
+MUPRIME-BSC_034,MuPrime Media,Media,,2023-07-23,2024-05-31,cancelled,Basic,40,9,2024-05-31,0,0,0,0,0.99,2024-05-31,"Minimal engagement, business merger prompted cancellation."
+NUPRIME-ENT_035,NuPrime Testing Labs,Testing,z.clark,2022-07-23,,active,Enterprise,2560,165,2024-06-13,157,89.8,96.3,94.1,0.07,2024-06-12,"High engagement, quarterly check-in completed."
+XIPRIME-PRO_036,XiPrime Construction,Construction,w.murphy,2023-02-22,,active,Pro,490,49,2024-06-11,42,73.2,76.2,,0.25,2024-06-07,"Moderate engagement, campaign spikes."
+OMICRONPRIME-BSC_037,OmicronPrime Retail,Retail,,2023-12-06,,active,Basic,42.99,6,2024-06-09,4,21.7,,,0.49,2024-06-05,"Low engagement, price sensitive."
+PIPRIME-TRIAL_038,PiPrime Advertising,Advertising,y.martinez,2024-06-03,,trial,Pro,0,20,2024-06-13,16,66.1,,,0.44,2024-06-12,"Pilot, initial engagement positive."
+RHOPRIME-ENT_039,RhoPrime Education,Education,s.edwards,2021-05-13,,active,Enterprise,1350,102,2024-06-12,94,82.9,94.6,92.3,0.12,2024-06-10,"High engagement, annual review scheduled."
+SIGMAPRIME-PRO_040,SigmaPrime Logistics,Transportation,j.ward,2023-07-21,,active,Pro,383,33,2024-06-13,29,71.3,73.6,,0.31,2024-06-08,"Moderate engagement, logistics integration launched."
+TAUPRIME-BSC_041,TauPrime Solo,Testing,,2023-08-28,2024-06-01,expired,Basic,19.99,1,2024-06-01,0,0,0,,1,2024-06-01,"Minimal engagement, solo operator, account expired due to inactivity."
+UPSILONPRIME-ENT_042,UpsilonPrime Aerospace,Aerospace,p.reed,2021-11-19,,active,Enterprise,3200,410,2024-06-13,401,98.5,98.1,97.6,0.02,2024-06-12,"High engagement, custom integrations, quarterly business review."
+PHIPRIME-PRO_043,PhiPrime Healthcare,Healthcare,k.sanders,2022-10-14,,active,Pro,599,55,2024-06-10,52,88.4,90.7,88.2,0.09,2024-06-09,"High engagement, compliance integrations enabled."
+CHIPRIME-BSC_044,ChiPrime Agriculture,Agriculture,,2023-12-17,,active,Basic,21.99,2,2024-06-08,1,15,,,0.47,2024-06-04,"Low engagement, price sensitive, evaluating alternatives."
+PSIPRIME-TRIAL_045,PsiPrime Consulting,Professional Services,v.ross,2024-05-23,,trial,Pro,0,10,2024-06-13,7,33.2,,,0.74,2024-06-11,"Pilot, initial engagement positive, integration planned."
+OMEGAPRIME-ENT_046,OmegaPrime Manufacturing,Manufacturing,g.murray,2022-02-21,,active,Enterprise,2300,210,2024-06-12,205,91.6,92.9,92.3,0.05,2024-06-10,"High engagement, custom reporting enabled."
+ALPHA2-BSC_047,Alpha2 Retail Partners,Retail,,2023-12-03,,active,Basic,31,3,2024-06-09,2,26.3,,,0.53,2024-06-07,"Minimal engagement, solo operator, evaluating platform."
+BETA2-PRO_048,Beta2 Financial Group,Finance,h.foster,2023-08-24,,active,Pro,428,37,2024-06-12,34,76.8,81.9,,0.28,2024-06-09,"Moderate engagement, renewal approaching."
+GAMMA2-ENT_049,Gamma2 Technologies,Technology,a.wright,2022-08-19,,active,Enterprise,1360,102,2024-06-13,97,83.6,93.1,92.2,0.13,2024-06-12,"High engagement, custom integrations deployed."
+DELTA2-PRO_050,Delta2 Health Network,Healthcare,c.wilson,2023-09-13,,active,Pro,418.99,41,2024-06-11,39,82.5,83.1,,0.26,2024-06-08,"Moderate engagement, compliance training scheduled."
+NOVA-ENT_2024A1,Nova Industrial Solutions,Manufacturing,s.walters,2022-03-15,,active,Enterprise,1432,221,2024-05-30,205,95.4,99,97.2,0.06,2024-05-29,Annual review completed; advanced reporting enabled for plant analytics.
+GLOBE-PRO_5321,Globe Finance Group,Finance,d.thompson,2023-02-20,,active,Pro,547.5,43,2024-05-27,37,78.1,91.8,,0.21,2024-05-26,Considering upgrade to Enterprise; frequent campaign spikes observed.
+ALPHA_AGR-1009,Alpha Agricultural Holdings,Agriculture,,2024-01-12,,active,Basic,35.99,4,2024-05-28,3,42,,,0.39,2024-05-27,Minimal engagement; price sensitive. Solo operator added new field manager.
+TITAN-TRIAL_9987,Titan Testing Systems,Testing,b.mcintosh,2024-05-02,,trial,Pro,0,15,2024-05-30,12,27.6,,,0.54,,Pilot project for regional expansion; integration delayed by API changes.
+SUNRISE-PRO_7712,Sunrise Media Agency,Media,r.garcia,2023-09-10,,active,Pro,389,38,2024-05-29,32,83.2,87.6,,0.29,2024-05-29,Moderate engagement; considering upgrades. Noted seasonal campaign spikes.
+SKY-ENT_3978,Sky Energy Partners,Energy,k.murphy,2021-12-01,,active,Enterprise,2560,312,2024-05-30,305,99.1,99.8,98.6,0.04,2024-05-30,Custom integrations for compliance; annual review completed successfully.
+VECTOR-BASIC_1132,Vector Veterinary Clinic,Veterinary,,2023-11-19,,active,Basic,48,6,2024-05-28,4,39.7,,,0.47,2024-05-29,Minimal engagement noted; mostly billing and scheduling usage.
+QUANTUM-ENT_7825,Quantum Aerospace Systems,Aerospace,h.chan,2022-07-17,,active,Enterprise,3890,701,2024-05-30,690,96.8,97.4,95.5,0.09,2024-05-28,High engagement; custom dashboard deployed for flight data analytics.
+EVOLVE-PRO_4711,Evolve Construction LLC,Construction,t.evans,2023-05-24,,active,Pro,426,47,2024-05-29,44,72.3,89.2,,0.23,2024-05-27,Frequent usage of project management features; upgrade path under review.
+MIRAGE-TRIAL_3019,Mirage Retail Labs,Retail,edge_case_mgr,2024-05-10,,trial,Basic,0,3,2024-05-29,2,18.9,,,0.59,,Early adopter; pilot for multi-store integration. Feedback pending.
+ZENITH-ENT_4322,Zenith Education Group,Education,j.adams,2022-01-26,,active,Enterprise,1750,195,2024-05-30,182,85.5,93.1,91.7,0.13,2024-05-29,High engagement; annual curriculum review in progress.
+PLATINUM-PRO_7508,Platinum Advertising Inc,Advertising,b.smith,2023-03-05,2024-04-19,cancelled,Pro,398.5,28,2024-04-19,0,0,20.5,,0.96,2024-04-19,Account closed due to merger; minimal engagement in final quarter.
+VANGUARD-ENT_2207,Vanguard Healthcare Ltd,Healthcare,l.yu,2023-06-08,,active,Enterprise,1189,140,2024-05-29,122,88.7,94.3,,0.1,2024-05-28,Annual compliance review completed. High feature utilization.
+FUSION-BASIC_6191,Fusion Retail Partners,Retail,,2022-11-25,2024-03-22,expired,Basic,24.99,3,2024-03-22,0,0,0,0,0.92,2024-03-22,Account expired; price increase cited as reason for exit.
+SUMMIT-PRO_4231,Summit Transportation,Transportation,c.franklin,2023-07-14,,active,Pro,352,41,2024-05-28,36,68.9,81.2,,0.32,2024-05-27,Engagement increasing; new features trialed for route planning.
+ORBIT-ENT_8491,Orbit Technology Group,Technology,v.martinez,2022-02-11,,active,Enterprise,2750,563,2024-05-30,558,99.9,98.2,97.8,0.02,2024-05-28,Advanced reporting enabled; high engagement across all divisions.
+SOLID-BASIC_3352,Solid Construction Depot,Construction,,2023-08-02,2024-03-05,cancelled,Basic,41,7,2024-03-05,0,0,12,,0.98,2024-03-05,Minimal engagement. Account cancelled after project completion.
+PIVOT-TRIAL_2328,Pivot Professional Services,Professional Services,m.owens,2024-05-13,,trial,Pro,0,19,2024-05-30,13,33.3,,,0.67,,Demo deployment; feedback on scheduling module awaited.
+OMEGA-ENT_5964,Omega Manufacturing Inc,Manufacturing,f.baker,2021-08-13,,active,Enterprise,1980,171,2024-05-30,163,92.7,95.2,93.8,0.11,2024-05-29,Advanced analytics rollout completed; review scheduled for Q3.
+CROWN-PRO_6614,Crown Healthcare Services,Healthcare,d.harris,2023-10-06,,active,Pro,374,33,2024-05-29,28,70.6,83.5,,0.28,2024-05-28,Engagement steady; billing module frequently accessed.
+TRAILBLAZER-BASIC_4920,Trailblazer Retail Center,Retail,,2023-02-18,2024-02-28,expired,Basic,22.99,2,2024-02-28,0,0,0,0,0.94,2024-02-28,Account expired; no usage in last three months.
+STRATUS-ENT_8704,Stratus Aerospace LLC,Aerospace,g.hernandez,2022-05-23,,active,Enterprise,3155,532,2024-05-30,528,97.7,96.7,94.8,0.08,2024-05-30,Annual review complete; custom integrations for flight analytics.
+PULSE-PRO_7719,Pulse Transportation Ltd,Transportation,j.wilson,2022-08-16,,active,Pro,515,55,2024-05-30,52,86.1,95.4,91.9,0.18,2024-05-29,High engagement; tracking and route optimization features heavily used.
+EVEREST-TRIAL_1147,Everest Veterinary Group,Veterinary,l.fernandez,2024-05-18,,trial,Basic,0,2,2024-05-29,1,13.7,,,0.43,,Demo account; initial feedback on scheduling module received.
+ECLIPSE-BASIC_8472,Eclipse Media Labs,Media,,2023-10-21,2024-05-16,cancelled,Basic,47,9,2024-05-16,0,0,8.9,,0.97,2024-05-16,Minimal engagement; account cancelled after content migration.
+SOLARIS-ENT_5005,Solaris Energy Solutions,Energy,l.chan,2022-09-08,,active,Enterprise,1725,109,2024-05-29,101,82.3,90.9,88,0.15,2024-05-28,Compliant with new energy regulations; high dashboard usage.
+HORIZON-PRO_8416,Horizon Finance Solutions,Finance,a.james,2023-11-07,,active,Pro,402,35,2024-05-29,30,65.8,,,0.34,2024-05-29,Moderate engagement; reporting module used for quarterly audits.
+CASCADE-BASIC_3957,Cascade Agriculture Co,Agriculture,,2022-10-14,2024-03-30,expired,Basic,19.99,2,2024-03-30,0,0,0,0,0.93,2024-03-30,Account expired; no engagement after first quarter.
+AXIS-TRIAL_2073,Axis Manufacturing Partners,Manufacturing,j.hart,2024-05-08,,trial,Enterprise,0,22,2024-05-29,16,38.4,,,0.62,,Pilot for production line analytics; feedback scheduled for next month.
+VISTA-PRO_9651,Vista Professional Group,Professional Services,m.wong,2023-06-13,,active,Pro,326,31,2024-05-29,28,68.5,79.2,,0.34,2024-05-28,Steady engagement; considering additional modules for automation.
+PINNACLE-ENT_9003,Pinnacle Manufacturing Ltd,Manufacturing,v.lee,2022-03-27,,active,Enterprise,2110,311,2024-05-30,297,91.9,96.2,94.2,0.12,2024-05-29,Annual review; custom integration for supply chain tracking underway.
+UNITY-PRO_4816,Unity Education Services,Education,c.kim,2023-01-11,,active,Pro,410,44,2024-05-29,41,92.1,95.8,,0.17,2024-05-29,High engagement; reporting and dashboard modules used daily.
+INNOVATE-BASIC_2894,Innovate Advertising Group,Advertising,,2023-09-12,2024-04-30,expired,Basic,38.99,8,2024-04-30,0,0,9.6,,0.95,2024-04-30,Account expired; low engagement cited in exit survey.
+GENESIS-ENT_1389,Genesis Technology Advisors,Technology,s.taylor,2021-11-30,,active,Enterprise,2585,494,2024-05-30,484,95.2,98.7,96.3,0.06,2024-05-29,Custom integrations for AI workflow; annual review scheduled.
+ELEVATE-PRO_5238,Elevate Construction Group,Construction,d.reed,2022-12-18,,active,Pro,558,54,2024-05-30,48,87.3,94,89.3,0.19,2024-05-29,Engagement high; dashboard and analytics modules used for project tracking.
+FALCON-TRIAL_1596,Falcon Testing Labs,Testing,t.hall,2024-05-12,,trial,Pro,0,12,2024-05-29,10,29.9,,,0.57,,Demo deployment; feedback on reporting module awaited.
+SYNERGY-BASIC_9521,Synergy Media Solutions,Media,,2023-08-23,2024-02-21,expired,Basic,44,10,2024-02-21,0,0,5.7,,0.97,2024-02-21,Account expired; minimal engagement after first six months.
+VECTOR-ENT_6208,Vector Aerospace Ltd,Aerospace,m.clark,2022-04-05,,active,Enterprise,2185,247,2024-05-30,239,92.8,95,93,0.12,2024-05-28,High engagement; advanced reporting for flight safety analytics.
+FORWARD-PRO_7512,Forward Transportation Group,Transportation,n.lewis,2022-06-21,,active,Pro,362,39,2024-05-30,37,66.7,80.9,75.1,0.37,2024-05-29,Steady engagement; new route optimization feature trialed.
+ENCOMPASS-ENT_4084,Encompass Healthcare,Healthcare,w.turner,2021-06-17,,active,Enterprise,1375,127,2024-05-30,119,89.6,92.8,91.8,0.13,2024-05-29,Compliance review complete; dashboard module upgraded for efficiency.
+BENCHMARK-BASIC_7592,Benchmark Retail Group,Retail,,2023-02-24,2024-03-01,cancelled,Basic,31.99,5,2024-03-01,0,0,14.3,,0.99,2024-03-01,Minimal engagement; account cancelled after price increase.
+OMNI-PRO_3501,Omni Professional Advisors,Professional Services,s.lawrence,2023-05-19,,active,Pro,385,29,2024-05-29,25,73.9,85.7,,0.27,2024-05-27,Engagement moderate; campaign module adopted by most users.
+SPECTRUM-ENT_7213,Spectrum Energy Partners,Energy,a.brown,2022-11-09,,active,Enterprise,1645,121,2024-05-29,115,85.7,90.3,88.2,0.15,2024-05-28,High dashboard usage; compliance review scheduled for next quarter.
+FOCUS-PRO_6908,Focus Finance LLC,Finance,m.dixon,2022-07-24,,active,Pro,547,51,2024-05-30,48,89.2,97.1,95,0.09,2024-05-29,Reporting module adopted for monthly audits; engagement high.
+ASCEND-BASIC_5405,Ascend Veterinary Clinic,Veterinary,,2023-02-18,2024-04-12,cancelled,Basic,26.99,3,2024-04-12,0,0,6.8,,0.96,2024-04-12,Account cancelled after initial trial; minimal engagement recorded.
+PIONEER-ENT_8046,Pioneer Education Group,Education,e.evans,2022-10-15,,active,Enterprise,1480,105,2024-05-30,97,80.2,90,86.7,0.18,2024-05-30,Curriculum review completed; new dashboard module requested.
+MARATHON-PRO_5739,Marathon Construction,Construction,q.morris,2022-05-28,,active,Pro,489,49,2024-05-29,45,85.1,93.8,90.2,0.14,2024-05-28,High engagement; analytics module drives project efficiency.
+INFRA-ENT_3025,Infrastructure Dynamics Ltd,Construction,t.burke,2022-04-16,,active,Enterprise,2575,312,2024-05-18,291,93.2,98.5,97.1,0.06,2024-05-20,"Quarterly review completed. Custom dashboard in use, high engagement."
+PROF-SRV_0495,Professional Services Group,Professional Services,m.hall,2023-08-11,,active,Pro,529,48,2024-05-17,41,72.4,91.3,,0.18,2024-05-19,Users responded positively to new workflow automation feature.
+MEDTECH-PR_1207,MedTech Progress Inc,Healthcare,r.yu,2023-02-04,,active,Pro,370,27,2024-05-14,22,75.7,88.9,,0.22,2024-05-18,Feature rollout scheduled next quarter. Training support requested.
+AGRI-BSC_8712,Greenfield Agritech,Agriculture,,2024-03-01,,active,Basic,35.99,5,2024-05-20,3,44.3,,,0.46,2024-05-17,Solo operator. Basic plan fits needs. No upgrade interest.
+RETAIL-CNL_1098,Omni Retail Partners,Retail,a.singh,2023-06-21,2024-05-05,expired,Basic,21.99,2,2024-05-05,0,0,40.2,29.9,0.96,2024-05-05,Account expired after a period of inactivity. No renewal planned.
+FIN-ENT_8113,FinVest Group Holdings,Finance,d.wright,2022-10-09,,active,Enterprise,3120,425,2024-05-18,396,95.6,99.2,98.4,0.03,2024-05-19,Integration with legacy systems successful. High user satisfaction.
+EDU-PR_6210,BrightPath Education,Education,s.kim,2023-03-29,,active,Pro,399,34,2024-05-16,27,70.4,79.7,,0.35,2024-05-18,Mid-year onboarding. Request for parent portal features.
+LOG-ENT_5521,Global Logistics Solutions,Transportation,j.martinez,2022-07-23,,active,Enterprise,4100,530,2024-05-18,514,97.8,99.5,99.1,0.02,2024-05-19,Major account. Custom API integration ongoing.
+TESTLAB-PR_3387,TestLab Analytics,Testing,p.frost,2023-11-22,,trial,Pro,0,8,2024-05-19,7,62.7,,,0.47,2024-05-19,Pilot phase. Awaiting feedback on feature set.
+ENERGY-ENT_6244,EnergyNext Consortium,Energy,v.hernandez,2022-06-13,,active,Enterprise,2950,367,2024-05-17,331,89.1,97.2,96.3,0.08,2024-05-18,Annual contract renewed. High feature adoption.
+VET-BSC_4017,Healthy Paws Veterinary,Veterinary,,2024-03-27,,active,Basic,27.99,2,2024-05-20,2,51.1,,,0.39,2024-05-17,Solo operator. Using appointment scheduling module.
+AERO-ENT_7850,AeroSpace Technologies,Aerospace,c.mendez,2022-12-15,,active,Enterprise,4720,811,2024-05-18,793,98.9,99.7,98.8,0.03,2024-05-19,High engagement. Data analytics features heavily used.
+AD-PR_2391,AdVision Agency,Advertising,e.keller,2023-09-04,,active,Pro,484,53,2024-05-18,50,83.3,93.8,,0.15,2024-05-19,Seasonal campaign spikes. Considering Enterprise upgrade.
+MFG-ENT_6089,Manufacture Direct,Manufacturing,f.wong,2022-09-28,,active,Enterprise,3890,405,2024-05-17,393,91.7,97.6,97.1,0.07,2024-05-18,Annual review completed. Expansion planned in next fiscal.
+BIO-TRIAL_1045,BioGenix Solutions,Biotechnology,j.davies,2024-04-07,,trial,Basic,0,6,2024-05-18,2,21.9,,,0.52,,Demo in progress. Integration delays reported by client.
+AUTO-EXP_4321,AutoExpert Mechanics,Automotive,r.james,2023-05-09,2024-04-30,cancelled,Pro,312,29,2024-04-30,0,0,54.8,23.6,0.99,2024-04-30,Account cancelled due to business restructuring.
+MEDIA-PR_5183,MediaStream Partners,Media,l.hart,2023-10-02,,active,Pro,412,38,2024-05-18,30,73.5,81.6,,0.27,2024-05-18,Content scheduling module highly used last month.
+RESEARCH-TR_6812,Research Innovations Co,Research,m.jordan,2024-04-10,,trial,Pro,0,13,2024-05-19,7,39.7,,,0.58,2024-05-18,Trial phase. Early feedback on analytics received.
+SOLO-BSC_8372,Solo Consulting LLC,Consulting,,2024-01-14,,active,Basic,19.99,1,2024-05-20,1,34.8,,,0.41,2024-05-17,Minimal engagement. No interest in advanced modules.
+GOV-ENT_2921,CityGov Solutions,Government,g.nguyen,2022-06-28,,active,Enterprise,2180,190,2024-05-17,172,84.2,95.1,94.3,0.09,2024-05-18,Account stable. Custom reporting module in high use.
+FOOD-PR_3024,FoodChain Suppliers,Food & Beverage,b.lowe,2023-11-05,,active,Pro,355,29,2024-05-19,22,67.6,78.4,,0.38,2024-05-18,Onboarding new staff. Usage trending upward.
+PHARMA-ENT_1907,PharmaGlobal Ltd,Pharmaceutical,z.jenkins,2022-08-22,,active,Enterprise,3345,321,2024-05-16,299,88.5,96.8,95.6,0.11,2024-05-17,Compliance features fully adopted. Expansion planned.
+VEND-BSC_5608,VendorConnect,Wholesale,,2023-12-31,,active,Basic,23.99,3,2024-05-20,2,40.2,,,0.44,2024-05-17,Low engagement. Uses only order tracking module.
+TECH-PR_2871,TechBridge IT,Technology,s.holt,2023-07-13,,active,Pro,392,41,2024-05-18,39,75.1,89.7,,0.21,2024-05-18,Frequent support tickets. Considering Enterprise upgrade.
+CONSULT-TR_1158,ConsultX Solutions,Consulting,d.lewis,2024-05-01,,trial,Pro,0,15,2024-05-19,10,33.4,,,0.57,2024-05-17,Trial underway. First feedback expected soon.
+TRAN-ENT_7159,TransGlobal Freight,Transportation,p.chan,2023-01-16,,active,Enterprise,2260,111,2024-05-18,99,82.7,90.6,,0.13,2024-05-18,Planning for user expansion. Stable engagement metrics.
+RENEW-EXP_9842,Renewable Resource Group,Energy,c.rivers,2022-05-19,2024-04-28,expired,Pro,415,39,2024-04-28,0,0,62.3,44.7,0.97,2024-04-28,Account expired after merger. No renewal planned.
+FOCUS-PAU_3569,Focus Testing Labs,Testing,edge_mgr,2023-02-10,2024-04-25,paused,Pro,330,31,2024-04-25,0,0,54.2,28.9,0.98,2024-04-25,Paused due to business model change. Awaiting next steps.
+MKT-BSC_9804,MarketPulse Insights,Marketing,,2024-02-26,,active,Basic,41.99,7,2024-05-20,5,54.6,,,0.33,2024-05-17,Recent onboarding. Using reporting feature daily.
+SCI-TRIAL_7923,SciencePath Labs,Research,v.patel,2024-04-03,,trial,Basic,0,5,2024-05-19,3,24.7,,,0.63,,Early adopter. Testing collaboration module.
+CONS-PR_9941,Consortium Consulting,Consulting,a.morris,2023-05-11,,active,Pro,458,52,2024-05-18,46,88.2,92.1,,0.09,2024-05-19,High engagement. Advanced analytics in daily use.
+HUMAN-PR_1111,Human Capital Advisors,Human Resources,c.stevens,2023-02-17,,active,Pro,343,28,2024-05-16,22,73.7,81.3,,0.23,2024-05-17,Engagement steady. Request for onboarding automation.
+BIO-ENT_1709,BioCore Technologies,Biotechnology,f.alvarez,2022-11-19,,active,Enterprise,2155,162,2024-05-17,146,87.4,94.6,93.3,0.14,2024-05-18,Annual review. High adoption of new compliance module.
+TEST-BSC_3220,TestMarket Solutions,Testing,,2023-12-22,,active,Basic,32.99,4,2024-05-20,3,50.5,,,0.36,2024-05-19,Limited engagement. Feature requests pending.
+RENEW-TR_4587,Renewal Partners LLC,Energy,s.peters,2024-05-09,,trial,Pro,0,14,2024-05-19,9,36.2,,,0.53,2024-05-18,Trial underway. Awaiting performance feedback.
+AD-BSC_8903,AdMix Media,Advertising,,2024-03-13,,active,Basic,29.99,2,2024-05-20,2,47.5,,,0.42,2024-05-19,Basic plan. Moderate engagement with reporting.
+LAB-TRIAL_6724,LabConnect Systems,Healthcare,q.chan,2024-04-16,,trial,Pro,0,10,2024-05-19,7,48.1,,,0.41,2024-05-19,Trial phase. Healthcare integration tests ongoing.
+EDU-BSC_9002,EduConnect Services,Education,,2024-02-10,,active,Basic,39.99,6,2024-05-20,5,59.7,,,0.32,2024-05-17,Using scheduling module. No advanced features enabled.
+MFG-PR_6748,MFGPro Solutions,Manufacturing,j.stone,2023-10-29,,active,Pro,492,55,2024-05-18,49,81.3,88.2,,0.17,2024-05-18,Manufacturing insights module drives engagement.
+AUTO-BSC_9230,AutoEase Services,Automotive,,2024-01-05,,active,Basic,26.99,1,2024-05-20,1,29.8,,,0.51,2024-05-17,Minimal usage. No add-ons enabled.
+TECH-ENT_1871,TechNova Global,Technology,n.ellis,2022-10-22,,active,Enterprise,3550,478,2024-05-18,455,94.8,98.1,97.6,0.05,2024-05-19,Custom integration completed. High engagement metrics.
+FIN-PR_5643,FinEdge Advisory,Finance,d.zhao,2023-02-21,,active,Pro,521,47,2024-05-16,43,85.1,90.4,,0.17,2024-05-18,Financial modeling module adopted by all users.
+EDU-PR_3086,Edutech Group,Education,j.owens,2023-12-08,,trial,Pro,0,11,2024-05-19,8,50.2,,,0.49,2024-05-19,Trial onboarding. Exploring reporting features.
+TECH-TR_8125,TechStart Innovations,Technology,m.ryan,2024-05-03,,trial,Enterprise,0,20,2024-05-18,12,31.4,,,0.36,2024-05-18,Trial phase. Early adopter of analytics suite.
+MEDIA-BSC_3164,MediaLink Studios,Media,,2023-11-18,,active,Basic,45.99,8,2024-05-20,6,53.6,,,0.36,2024-05-17,Media plan adopted for small studio operations.
+PROF-PR_2576,ProfNet Global,Professional Services,g.meyer,2023-06-16,,active,Pro,484,53,2024-05-18,50,84.7,93.1,,0.16,2024-05-19,Professional plan supports project management needs.
+SCI-PR_6105,SciReach Labs,Research,r.bailey,2023-04-24,,active,Pro,332,27,2024-05-16,22,71.9,78.8,,0.29,2024-05-17,Research data features highly used by team.
+AUTO-PR_6204,AutoFleet Solutions,Automotive,c.evans,2023-08-02,,active,Pro,378,33,2024-05-18,29,76.5,83.7,,0.22,2024-05-19,Fleet tracking module in weekly use.
+MEDIA-PR_3072,MediaLogic Agency,Media,r.ward,2023-07-16,,active,Pro,429,42,2024-05-18,39,78.3,85.2,,0.26,2024-05-19,"Regular campaign management, high platform stability."
+PHARMA-TR_9281,PharmaLink Research,Pharmaceutical,k.ortiz,2024-05-13,,trial,Pro,0,12,2024-05-19,7,44.9,,,0.59,,Trial phase. Compliance module feedback pending.
+SYNTECH-0001,Syntech Manufacturing Group,Manufacturing,j.martinez,2022-03-12,,active,Enterprise,3025.5,795,2024-06-04,751,95.2,97.9,95.1,0.07,2024-05-29,"Annual review completed, high engagement with reporting suite."
+HEALTHPRO-2022,HealthPro Diagnostics,Healthcare,a.lee,2023-01-28,,active,Pro,480,33,2024-06-03,29,82.7,85.3,78.6,0.14,2024-05-30,"Strong adoption of workflow automation, possible Enterprise upgrade."
+EDU-INSIGHT_0111,Edu Insight Alliance,Education,c.evans,2022-05-05,,active,Enterprise,1550,142,2024-06-04,134,97.6,99.1,96.7,0.03,2024-05-25,Custom integrations for student analytics highly rated.
+AGRICORE-2024A,Agricore Farming Supplies,Agriculture,,2022-10-12,,active,Basic,41.99,8,2024-06-03,6,39.8,67.9,61.7,0.38,2024-05-28,"Low engagement, price-sensitive users, periodic login activity."
+PETVET-0003,PetVet Veterinary Group,Veterinary,,2023-06-18,,active,Basic,29.99,4,2024-06-02,2,24.3,46.1,,0.55,2024-06-01,"Solo operator account, minimal support requests."
+AERO-FUSION_2023,AeroFusion Technologies,Aerospace,l.williams,2022-09-20,,active,Enterprise,2780,650,2024-06-04,635,93.2,98.4,92.5,0.08,2024-05-30,"Annual review scheduled, positive feedback on security features."
+PROSERV_0098,ProServ Consulting,Professional Services,m.taylor,2023-02-10,,active,Pro,540,51,2024-06-03,46,74.5,88.7,80.2,0.18,2024-05-31,"Campaign analytics used heavily, considering plan upgrade."
+MEDIX-TEST_17,Medix Test Labs,Testing,,2023-04-04,,trial,Basic,0,5,2024-06-04,2,22.7,,,0.77,,"Pilot phase, integration pending, low overall engagement."
+CLOUDX_2022A,CloudX Digital,Technology,r.jones,2022-06-13,,active,Enterprise,1200,110,2024-06-03,104,89.8,93.2,90.5,0.09,2024-05-30,"Custom reporting modules deployed, strong engagement trend."
+TRANSLOGIC-TRN1,Translogic Transport,Transportation,s.harris,2023-03-22,,active,Pro,476,44,2024-06-03,39,79.3,81,,0.22,2024-05-29,"Fleet dashboard adoption strong, possible expansion."
+ENERGEX-PLAT_77,Energex Platform Solutions,Energy,m.simmons,2022-07-20,,active,Enterprise,2020,300,2024-06-04,287,91.4,96.9,94.5,0.06,2024-05-26,"Engagement spike post-feature launch, zero churn risk."
+MEDIAFLOW_0012,MediaFlow Network,Media,,2022-04-02,,active,Basic,39.99,10,2024-06-04,7,51.5,73.1,69.3,0.43,2024-05-30,"Standard plan, moderate engagement, price sensitive."
+CONSTRUCT-PLUS_2021,ConstructPlus Engineering,Construction,b.meyer,2022-01-10,,active,Pro,420,38,2024-06-04,32,65.4,78.9,74.2,0.33,2024-05-31,"Moderate usage, evaluating premium analytics upgrade."
+RETAILPRO-728A,RetailPro Outlets,Retail,,2022-08-19,,active,Basic,44.5,7,2024-06-03,5,36.2,62.7,59.4,0.51,2024-06-02,"Low engagement, periodic logins, considering plan downgrade."
+BIOGENICS-ENT_120,Biogenics Research,Healthcare,r.hall,2022-04-15,,active,Enterprise,1650,130,2024-06-04,122,94.1,91.7,88.3,0.1,2024-06-01,"Zero churn risk, custom deployment for lab teams."
+ADWORKS-PRO_33,AdWorks Solutions,Advertising,k.stevens,2023-09-04,,active,Pro,392,28,2024-06-04,26,70.8,74.9,,0.31,2024-06-02,"Campaign performance tools widely used, moderate engagement."
+FINANCEHUB-002,FinanceHub Partners,Finance,d.carter,2023-05-15,,active,Pro,578,51,2024-06-03,45,87.5,91.2,81.5,0.09,2024-05-31,"Strong retention, advanced reporting suite enabled."
+VETLAB-TRIAL_79,VetLab Innovations,Veterinary,e.smith,2024-03-21,,trial,Basic,0,2,2024-06-02,1,11,,,0.54,,"Early adopter, pending full onboarding."
+ADV-MEDIA_3628,Advantage Media Group,Media,j.brown,2022-02-28,,active,Pro,395,29,2024-06-03,27,68.4,79.9,75.2,0.35,2024-05-28,"Moderate engagement, new campaign analytics module tested."
+AGROTEST-TRIAL_23,AgroTest Solutions,Agriculture,,2024-05-01,,trial,Basic,0,3,2024-06-04,1,14.3,,,0.72,,"Demo phase, limited feature engagement."
+PAUSED-TECH_44,PausedTech Solutions,Technology,f.murphy,2022-02-01,2023-12-31,paused,Pro,580,48,2023-12-31,0,0,0,0,0.97,2023-12-31,"Account paused after merger, zero activity since Q1."
+TRIAL-RETAIL_50,Trial Retail Partners,Retail,p.white,2024-04-12,,trial,Pro,0,12,2024-06-03,8,23.5,,,0.68,,"Pilot group, initial feedback on product catalog features."
+EXPIRED-AGRO_09,Expired AgroTech,Agriculture,,2021-06-19,2023-06-19,expired,Basic,39.99,7,2023-06-19,0,0,42.9,16.7,0.98,2023-06-19,"Account expired, low retention, minimal activity before end."
+CANCELLED-ENERGY_22,Cancelled EnergyHub,Energy,g.hayes,2021-05-15,2023-05-15,cancelled,Pro,395,29,2023-05-15,0,0,55.2,0,1,2023-05-15,"Subscription cancelled post price increase, zero activity."
+TRIAL-TECH_93,TrialTech Innovations,Technology,,2024-05-20,,trial,Enterprise,0,150,2024-06-03,30,19.8,,,0.61,,"Large pilot group, testing advanced modules."
+PRO-SERV_TRIAL_54,ProServ Trial Group,Professional Services,t.hernandez,2024-04-02,,trial,Pro,0,18,2024-06-04,5,25.6,,,0.73,,"Trial period, moderate user testing, onboarding scheduled."
+EXPIRED-MEDIA_72,Expired MediaFlow,Media,,2021-02-11,2023-02-11,expired,Basic,24.99,3,2023-02-11,0,0,30,0,1,2023-02-11,"Account expired, minimal engagement, zero activity post-expiry."
+CANCELLED-EDU_91,Cancelled Edulink,Education,v.king,2020-03-08,2022-03-08,cancelled,Enterprise,1100,100,2022-03-08,0,0,62,34.1,0.99,2022-03-08,"Subscription cancelled after funding cuts, moderate retention."
+EXPIRED-RETAIL_41,Expired RetailPro,Retail,,2020-10-10,2022-10-10,expired,Basic,24.99,2,2022-10-10,0,0,19,0,1,2022-10-10,"Account closed by solo operator, zero engagement last 6 months."
+PAUSED-PROF_82,PausedPro Professionals,Professional Services,d.thompson,2021-09-30,2022-09-30,paused,Pro,530,44,2022-09-30,0,0,47.8,11.2,0.95,2022-09-30,"Account paused for strategic review, low retention."
+CANCELLED-MANUF_64,Cancelled Manufactura,Manufacturing,y.foster,2020-07-15,2022-07-15,cancelled,Enterprise,1250,140,2022-07-15,0,0,71.8,23.4,0.95,2022-07-15,"Cancelled after merger, retention dropped sharply in last year."
+PAUSED-AGRI_11,PausedAgri Solutions,Agriculture,,2021-04-09,2022-04-09,paused,Basic,21.99,2,2022-04-09,0,0,0,0,1,2022-04-09,"Minimal engagement, account paused after failed pilot."
+TRIAL-FINANCE_15,Trial Finance Solutions,Finance,z.morris,2024-05-14,,trial,Pro,0,17,2024-06-03,6,29.7,,,0.53,,"Demo phase, onboarding scheduled next quarter."
+ACTIVE-EDU_87,ActiveEdu Alliance,Education,g.garcia,2023-06-01,,active,Enterprise,1100,100,2024-06-03,98,88.7,92,,0.1,2024-06-02,"Annual renewal completed, positive feedback on student module."
+ACTIVE-MANUF_43,ActiveManuf Technologies,Manufacturing,h.ramirez,2022-11-22,,active,Enterprise,1560,160,2024-06-04,155,96.5,98.7,95.4,0.05,2024-05-31,"High feature adoption, annual review scheduled."
+ACTIVE-ENERGY_29,ActiveEnergy Systems,Energy,t.scott,2022-08-14,,active,Pro,550,52,2024-06-03,49,86.1,87.5,82.2,0.16,2024-05-30,"Strong engagement, advanced analytics module deployed."
+ACTIVE-PROF_18,ActiveProf Consulting,Professional Services,b.wood,2023-01-04,,active,Pro,440,39,2024-06-03,37,76.2,82.1,77.9,0.26,2024-05-29,"Moderate engagement, onboarding new team members."
+ACTIVE-RETAIL_61,ActiveRetail Stores,Retail,,2022-05-10,,active,Basic,26.99,2,2024-06-04,2,21.3,47.6,39.5,0.61,2024-05-29,"Solo operator, minimal engagement, periodic login activity."
+ACTIVE-MEDIA_34,ActiveMedia Partners,Media,f.nguyen,2023-02-20,,active,Pro,495,55,2024-06-04,52,82.4,88.8,83.2,0.2,2024-06-01,"Strong engagement, high retention, new ad channels onboarded."
+ACTIVE-AGRI_16,ActiveAgri Solutions,Agriculture,,2023-12-14,,active,Basic,22.99,1,2024-06-03,1,12.4,,,0.47,2024-05-28,"Minimal use, solo operator, onboarding new features."
+ACTIVE-VET_22,ActiveVet Clinics,Veterinary,a.thomas,2022-10-21,,active,Basic,45,9,2024-06-04,8,37.9,68.2,61.3,0.39,2024-05-30,"Moderate engagement, new team member onboarding."
+ACTIVE-FINANCE_39,ActiveFinance Partners,Finance,m.hernandez,2022-08-08,,active,Pro,599,55,2024-06-04,54,93.2,95.1,93.6,0.05,2024-06-03,"High engagement, advanced analytics widely used."
+ACTIVE-ADWORKS_88,ActiveAdWorks Agency,Advertising,o.rodriguez,2023-09-18,,active,Pro,390,27,2024-06-04,25,75.5,89.1,82.7,0.19,2024-05-30,"Moderate engagement, onboarding new campaign team."
+ACTIVE-CONSTRUCT_77,ActiveConstruct Engineering,Construction,s.morris,2022-03-11,,active,Pro,410,37,2024-06-03,34,73.3,80.5,75.4,0.24,2024-05-29,"Moderate usage, onboarding new project managers."
+ACTIVE-TEST_12,ActiveTest Labs,Testing,,2023-06-25,,active,Basic,32.99,5,2024-06-03,4,25.6,55.7,,0.49,2024-06-01,"Solo operator, basic feature usage only."
+ACTIVE-TRANSPORT_10,ActiveTransport Group,Transportation,w.clark,2022-07-05,,active,Pro,505,50,2024-06-03,48,85.2,90.9,87.4,0.12,2024-05-30,"Fleet dashboard adoption high, onboarding new drivers."
+INTEGRA-HEALTH_004,Integra Health Group,Healthcare,j.cross,2022-07-19,,active,Enterprise,1920.5,322,2024-06-11,305,92.7,98.4,95.1,0.07,2024-06-12,"Annual review completed, custom integrations in use, engagement rising."
+EDU-ADVANCE_2023,EduAdvance Solutions,Education,v.murphy,2023-02-16,,active,Pro,489.99,48,2024-06-13,44,81.2,83.9,,0.15,2024-05-28,"Usage spike after new feature rollout, considering Enterprise upgrade."
+AGRO-RETAIL-06,AgroRetail Partners,Agriculture,,2023-09-11,,active,Basic,37.25,4,2024-06-14,2,14.5,,,0.58,2024-06-10,"Limited engagement, price sensitive. Solo operators, possible upgrade to Pro."
+ALPHA-TECH_9912,AlphaTech Innovations,Technology,m.taylor,2021-11-03,,active,Enterprise,3670,912,2024-06-11,896,98.9,99.2,97.6,0.04,2024-06-13,"High engagement, annual review completed, custom reporting enabled."
+CIVIL-BUILD_230,CivilBuild Solutions,Construction,r.lee,2024-03-12,,trial,Pro,0,17,2024-06-12,6,29.7,,,0.51,,"Pilot phase, integration delays reported, feedback cycle ongoing."
+VET-MEDIA_0030,VetMedia Group,Veterinary,,2022-01-27,2024-05-20,expired,Basic,27,2,2024-05-20,0,0,13.5,0,0.97,2024-05-21,"Account expired after price increase, minimal engagement last quarter."
+AERO-ENTERPRISE_211,AeroEnterprise Ltd,Aerospace,k.mason,2023-06-05,,active,Enterprise,2499,211,2024-06-11,197,88.3,91.4,,0.09,2024-06-13,"Custom integrations deployed, positive feedback on support response times."

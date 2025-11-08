@@ -1,0 +1,4 @@
+{
+  "label": "churn_probability",
+  "description": "Predicted churn probability between 0 and 1"
+}

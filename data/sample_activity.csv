@@ -1,0 +1,5 @@
+customer_id,date,logins,session_duration_seconds,feature_A_uses,feature_B_uses,support_tickets,plan_type,churn_label
+U001,2025-10-01,4,1200,3,5,0,pro,0
+U001,2025-10-02,2,800,2,1,1,pro,0
+U002,2025-10-01,0,0,0,0,3,basic,1
+U003,2025-10-03,1,300,0,0,0,free,1
